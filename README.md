@@ -1,5 +1,5 @@
 ## FishHuntGame
-you play as a shark that hunts fish for its supper.
+you play as a shark that hunts fish for its dinner.
 Being a greedy shark, you can't afford to leave too much
 of fish pass... After 3 missed fish, the game is lost.
 The game is mouse controlled and continues endlessly,
