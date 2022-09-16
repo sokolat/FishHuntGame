@@ -13,4 +13,4 @@ To run the game properly you need to install and configure javaFX in your comput
 ## Game Scenes
 
 Some of the screenshots of the game scene are as follows:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/[sokolat]/[FishHuntGame]/blob/[master]/logo.png?raw=true)
