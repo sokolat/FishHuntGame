@@ -14,4 +14,4 @@ To run the game properly you need to install and configure javaFX in your comput
 
 Some of the screenshots of the game scene are as follows:
 
-![image](src/Game/Images/logo.png)
+![image](src/Game/Images/splashScreen.png)
